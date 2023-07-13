@@ -3,4 +3,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=gatlinnewhouse&langs_count=6&line_height=23&theme=github_dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatlinnewhouse&langs_count=8&theme=github_dark" />
 </a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/gatlin.newhouse.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2063899"></script>
